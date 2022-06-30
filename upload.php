@@ -61,7 +61,7 @@
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/common.css">
     <link rel="icon" href="imgs/favicon-32x32.png">
-    <title>PhotoGallery Post</title>
+    <title>Upload</title>
 </head>
 <body style="overflow-Y: show">
 

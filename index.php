@@ -30,7 +30,6 @@
         <a href="signup.php" class="a-btn hover box-shadow a">Get Started</a>
     </div>
 
-    <script src="background.js">
-    </script>
+    <script src="background.js"></script>
 </body>
 </html>

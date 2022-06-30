@@ -96,7 +96,8 @@
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/start.css">
     <link rel="stylesheet" href="css/common.css">
-    <title>PhotoGallery Sign up</title>
+    <link rel="icon" href="imgs/favicon-32x32.png">
+    <title>Sign up</title>
 </head>
 <body>
     <!-- short navbar -->

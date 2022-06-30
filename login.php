@@ -46,7 +46,8 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/start.css">
-    <title>PhotoGallery Log in</title>
+    <link rel="icon" href="imgs/favicon-32x32.png">
+    <title>Log in</title>
 </head>
 <body style="overflow: hidden;">
     <!-- short navbar -->
