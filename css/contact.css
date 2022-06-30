@@ -1,0 +1,31 @@
+.flex-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+.spc-btwn {
+    justify-content: space-between;
+}
+
+.spc-ar {
+    justify-content: space-around;
+}
+
+.box {
+    background-color: white;
+    width: 350px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(94, 94, 94);
+    padding: 20px;
+    margin-top: 25px;
+}

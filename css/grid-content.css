@@ -1,0 +1,23 @@
+.c {
+    border-radius: 100%;
+    margin: 0 5px;
+}
+
+.grid-container {
+    margin: 45px 10px 10px 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 430px);
+    gap: 20px;
+}
+
+.user {
+    background-color: whitesmoke;
+    /* height: 40px; */
+}
+
+#sort {
+    position: fixed;
+    padding: 10px;
+    top: 80px;
+    left: 10px;
+}

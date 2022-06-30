@@ -1,0 +1,21 @@
+.textarea {
+    min-width: 320px;
+    max-width: 320px;
+    margin: 5px;
+    height: 140px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+.textarea:focus {
+    border: none;
+    outline: 1px solid rgb(18, 142, 221);
+}
+
+.textarea::placeholder {
+    font-family: sans-serif;
+    font-size: medium;
+}
